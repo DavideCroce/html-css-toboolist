@@ -1,0 +1,27 @@
+/* Generics*/
+
+body{
+    margin: 0;
+    background-color: #dedede;
+}
+
+.container{
+    background-color: #fff;
+}
+
+
+/* Specifics */
+
+h1{
+    display: inline;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 60px;
+    font-style: bold;
+}
+
+#logo-pagina{
+    vertical-align: top;
+    width: 60px;
+    height: 60px;
+    padding-top: 15px;
+}
